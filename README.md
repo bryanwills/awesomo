@@ -1,4 +1,4 @@
-# In memory of Alexei
+# In memory of Alexei Navalny
 
 
 [![awesomo](https://github.com/lk-geimfari/awesomo/assets/15812620/48c05000-9898-4603-882d-a143399f18cc)](https://github.com/lk-geimfari/awesomo)
