@@ -1,4 +1,4 @@
-# In memory of Alexei Navalny. Jun 4 1976 - Feb 16 2024.
+## In memory of Alexei Navalny. Jun 4 1976 - Feb 16 2024.
 
 
 [![awesomo](https://github.com/lk-geimfari/awesomo/assets/15812620/48c05000-9898-4603-882d-a143399f18cc)](https://github.com/lk-geimfari/awesomo)
