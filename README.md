@@ -1,6 +1,3 @@
-## In memory of Alexei Navalny. Jun 4 1976 - Feb 16 2024.
-
-
 [![awesomo](https://github.com/lk-geimfari/awesomo/assets/15812620/48c05000-9898-4603-882d-a143399f18cc)](https://github.com/lk-geimfari/awesomo)
 
 If you're interested in Open Source and thinking about joining the community of developers, you might find a suitable project here.
@@ -46,6 +43,10 @@ If you're interested in Open Source and thinking about joining the community of 
 - Open [new pull request](https://github.com/lk-geimfari/awesomo/compare).
 
 :point_up: However, keep in mind that we don't accept *mammoth's shit*. Only active and interesting projects with good documentation are added. Dead and abandoned projects will be removed.
+
+# In memory of 
+Alexei Navalny. Jun 4 1976 - Feb 16 2024.
+
 
 # Want to support us?
 
