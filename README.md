@@ -2,6 +2,10 @@
 
 If you're interested in Open Source and thinking about joining the community of developers, you might find a suitable project here.
 
+# In memory of
+
+Alexei Navalny and and to all other victims of repression.
+
 # Languages
 
  - [C](languages/C.md)
@@ -36,6 +40,7 @@ If you're interested in Open Source and thinking about joining the community of 
  - [Swift](languages/SWIFT.md)
  - [TypeScript](languages/TYPESCRIPT.md)
 
+
 # Want to add an interesting project?
 
 - Simply [fork](https://github.com/lk-geimfari/awesomo/) this repository.
@@ -43,9 +48,6 @@ If you're interested in Open Source and thinking about joining the community of 
 - Open [new pull request](https://github.com/lk-geimfari/awesomo/compare).
 
 :point_up: However, keep in mind that we don't accept *mammoth's shit*. Only active and interesting projects with good documentation are added. Dead and abandoned projects will be removed.
-
-# In memory of 
-Alexei Navalny. Jun 4 1976 - Feb 16 2024.
 
 
 # Want to support us?
